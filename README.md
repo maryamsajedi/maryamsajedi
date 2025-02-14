@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maryam Sajedinia
-- 👀 I’m interested in Machin Learning and Data :)
+- 👀 I’m interested in Machine Learning and Data :)
 - 📫 How to reach me: you can find me with @maryamsajedinia
 
 <!---
